@@ -7,8 +7,6 @@
 ## <u>Results:</u>
 
  ## 1. How many Vine reviews and non-Vine reviews were there?
-<br />
-
 ### In order to get a better understanding of how many Vine and non-Vine reviews there are, we first need to make sure that our data is useful. In order to be able to have accurate calculation we will on focus on reviews where the total votes count is equal or greater to 20. Additionally, we filter the newly created table for reviews where the number of helpful votes vs total votes is greater than 50%. Now, all that is left is to filer the Vine column for "Y" or "N" characters; "Y" standing for Vine reviews and "N" for non-Vine reviews. 
 ### As can be seen below, from the 574,168 total votes, **1,757** were paid Vine reviews, and **572,411** were unpaid Vine reviews.
 <br />
